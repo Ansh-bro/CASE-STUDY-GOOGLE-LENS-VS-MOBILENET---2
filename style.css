@@ -1,0 +1,15 @@
+.copy_right_footer{
+    margin-top: 20px;
+    position: fixed;
+    bottom: 0;
+    color: rgb(250, 246, 1);
+    width: 100%;
+    background-color: rgb(3, 158, 248);
+    line-height: 3;
+    text-align: center;
+ }
+body{
+    text-align: center;
+    padding: 15px;
+    background-color: indigo;
+}
